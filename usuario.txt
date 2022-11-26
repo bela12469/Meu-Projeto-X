@@ -7,3 +7,8 @@ comando2
 comando 3
 comando 4 
 
+testando novamente comandos
+teste 1
+teste 2
+
+
